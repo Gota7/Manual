@@ -113,6 +113,7 @@ You may have remembered in elementary school learning PEMDAS, or the order of op
 | x * y, x / y, x % y |
 | x + y, x - y |
 | x >> y, x << y |
+| x <=> y |
 | x > y, x < y, x >= y, x <= y |
 | x == y, x != y |
 | x & y |
